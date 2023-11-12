@@ -1,4 +1,4 @@
-#Shopping Page v1.1.0
+# Shopping Page v1.1.0
 
 쇼핑 홈 페이지 추가 목록
 1. 이용자의 알고리즘에 따른 상품 추천 기능
